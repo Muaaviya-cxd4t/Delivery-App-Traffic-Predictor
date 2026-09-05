@@ -1,0 +1,501 @@
+area,time,weather,hard_day,festival_flag,app
+Koramangala,20,Cloudy,0,0,Zomato
+Marathahalli,11,Clear,1,1,Zomato
+Malleshwaram,20,Cloudy,0,1,Zomato
+Electronic City,10,Hot,1,1,Zepto
+Jayanagar,15,Rainy,0,0,Swiggy
+Marathahalli,21,Rainy,1,0,Swiggy
+Malleshwaram,9,Hot,0,1,Zepto
+Malleshwaram,11,Rainy,0,0,Swiggy
+Koramangala,19,Cloudy,1,1,Zomato
+Electronic City,13,Hot,0,0,Zepto
+Electronic City,15,Clear,1,0,Zomato
+Jayanagar,18,Hot,0,0,Swiggy
+Marathahalli,9,Rainy,1,1,Swiggy
+Marathahalli,14,Hot,0,0,Zomato
+Hebbal,21,Clear,1,0,Zomato
+Malleshwaram,18,Rainy,1,0,Swiggy
+Malleshwaram,16,Cloudy,0,0,Swiggy
+Electronic City,18,Cloudy,0,1,Swiggy
+Jayanagar,17,Cloudy,1,1,Swiggy
+Malleshwaram,12,Cloudy,0,0,Zomato
+Electronic City,12,Rainy,1,1,Zomato
+Marathahalli,8,Hot,0,1,Zepto
+Whitefield,10,Cloudy,1,1,Zepto
+Electronic City,14,Rainy,1,0,Zomato
+Indiranagar,9,Hot,1,1,Zepto
+Electronic City,22,Cloudy,1,0,Zepto
+Electronic City,15,Clear,0,0,Zomato
+HSR Layout,17,Rainy,1,0,Swiggy
+HSR Layout,23,Rainy,1,0,Swiggy
+Hebbal,20,Hot,0,1,Zomato
+Malleshwaram,15,Cloudy,0,0,Swiggy
+Koramangala,10,Rainy,1,0,Swiggy
+Marathahalli,17,Cloudy,0,0,Swiggy
+Marathahalli,15,Cloudy,1,0,Swiggy
+Indiranagar,17,Clear,1,1,Zomato
+Koramangala,20,Clear,0,0,Zomato
+Hebbal,10,Cloudy,0,0,Zepto
+Jayanagar,12,Hot,1,1,Zomato
+Hebbal,17,Rainy,0,0,Swiggy
+Yelahanka,15,Hot,0,0,Zepto
+Hebbal,15,Rainy,1,0,Swiggy
+Jayanagar,20,Rainy,1,0,Zomato
+Marathahalli,15,Rainy,0,0,Swiggy
+Marathahalli,16,Clear,0,1,Swiggy
+Hebbal,18,Clear,0,0,Swiggy
+Hebbal,23,Hot,0,0,Zepto
+Yelahanka,11,Clear,0,0,Zomato
+Jayanagar,12,Hot,0,1,Zomato
+Whitefield,23,Cloudy,0,1,Zepto
+Jayanagar,23,Hot,0,0,Zomato
+Electronic City,23,Hot,0,1,Zepto
+Marathahalli,22,Clear,1,0,Swiggy
+Jayanagar,8,Hot,0,1,Zepto
+Marathahalli,9,Cloudy,1,0,Swiggy
+Whitefield,23,Clear,0,0,Zepto
+Marathahalli,10,Cloudy,0,0,Zepto
+Jayanagar,8,Clear,0,0,Zomato
+HSR Layout,23,Rainy,1,0,Zomato
+Indiranagar,11,Rainy,0,0,Swiggy
+Hebbal,12,Cloudy,1,1,Zomato
+Electronic City,11,Hot,1,0,Zepto
+Malleshwaram,21,Clear,0,0,Zomato
+Koramangala,14,Hot,0,0,Zomato
+Electronic City,13,Hot,1,0,Zepto
+Electronic City,8,Cloudy,1,0,Zepto
+Hebbal,19,Clear,1,0,Zomato
+Indiranagar,17,Clear,1,1,Zomato
+Marathahalli,18,Hot,1,0,Swiggy
+Whitefield,21,Rainy,1,0,Swiggy
+Whitefield,20,Cloudy,1,1,Zomato
+Whitefield,14,Clear,0,1,Zomato
+Electronic City,23,Hot,0,0,Zepto
+Whitefield,11,Hot,1,1,Zepto
+Marathahalli,22,Clear,0,1,Zomato
+Indiranagar,21,Rainy,0,1,Zomato
+Indiranagar,17,Clear,0,0,Zomato
+Electronic City,9,Cloudy,0,1,Zepto
+Koramangala,21,Clear,0,1,Zomato
+Marathahalli,14,Hot,0,1,Zomato
+Jayanagar,20,Hot,1,0,Zomato
+Marathahalli,11,Clear,0,1,Zomato
+Jayanagar,12,Clear,0,0,Zomato
+Marathahalli,9,Clear,1,0,Swiggy
+Koramangala,19,Clear,1,1,Zomato
+Whitefield,23,Rainy,1,1,Swiggy
+Malleshwaram,17,Hot,1,0,Swiggy
+HSR Layout,16,Hot,1,1,Swiggy
+Electronic City,18,Cloudy,0,0,Swiggy
+Electronic City,15,Clear,0,1,Zomato
+Whitefield,16,Rainy,1,0,Swiggy
+Indiranagar,18,Clear,0,1,Zomato
+Yelahanka,21,Rainy,1,0,Swiggy
+Yelahanka,21,Rainy,1,0,Swiggy
+Marathahalli,20,Cloudy,0,0,Zomato
+Koramangala,11,Cloudy,1,1,Zomato
+Marathahalli,23,Cloudy,1,0,Swiggy
+Jayanagar,9,Cloudy,1,1,Zomato
+Indiranagar,10,Hot,0,1,Zepto
+Yelahanka,20,Hot,1,0,Zepto
+Whitefield,8,Clear,1,1,Zepto
+Indiranagar,17,Clear,1,0,Swiggy
+Electronic City,19,Hot,1,1,Zomato
+Whitefield,17,Clear,1,1,Swiggy
+Indiranagar,19,Clear,0,1,Zomato
+Yelahanka,20,Clear,1,1,Zomato
+HSR Layout,21,Hot,1,0,Zomato
+Jayanagar,13,Rainy,0,1,Zomato
+Indiranagar,16,Rainy,1,0,Swiggy
+Indiranagar,16,Hot,1,0,Swiggy
+Malleshwaram,10,Rainy,1,1,Swiggy
+Marathahalli,23,Rainy,0,0,Swiggy
+Marathahalli,9,Clear,0,1,Zomato
+Jayanagar,8,Clear,0,1,Zomato
+Marathahalli,23,Rainy,0,0,Swiggy
+Jayanagar,22,Cloudy,1,1,Zomato
+Indiranagar,8,Hot,1,0,Zepto
+Koramangala,9,Cloudy,1,0,Zepto
+Hebbal,17,Clear,1,1,Zomato
+Whitefield,15,Clear,1,1,Zomato
+Koramangala,22,Rainy,1,1,Zomato
+Indiranagar,8,Hot,1,1,Zepto
+Marathahalli,12,Hot,0,0,Zomato
+Yelahanka,22,Clear,1,1,Zepto
+Hebbal,15,Clear,0,0,Zomato
+Hebbal,16,Cloudy,1,1,Swiggy
+Hebbal,15,Clear,1,1,Zomato
+Koramangala,12,Clear,1,1,Zomato
+Yelahanka,16,Clear,0,1,Zomato
+Marathahalli,15,Cloudy,0,0,Swiggy
+Malleshwaram,10,Rainy,1,1,Swiggy
+Electronic City,12,Cloudy,1,1,Zomato
+Whitefield,23,Cloudy,0,0,Zepto
+Jayanagar,12,Cloudy,0,1,Zomato
+Electronic City,16,Cloudy,0,1,Swiggy
+Electronic City,23,Clear,1,0,Zepto
+Hebbal,14,Hot,1,0,Zomato
+Hebbal,10,Rainy,1,0,Swiggy
+Hebbal,13,Hot,0,0,Zomato
+Electronic City,10,Clear,0,1,Zepto
+Jayanagar,19,Cloudy,1,1,Zomato
+Hebbal,11,Hot,0,1,Zepto
+Jayanagar,18,Cloudy,0,1,Zomato
+Jayanagar,16,Hot,0,1,Zomato
+Malleshwaram,16,Rainy,1,0,Swiggy
+HSR Layout,14,Rainy,0,0,Zepto
+Marathahalli,21,Clear,0,0,Zomato
+Electronic City,10,Cloudy,0,0,Zepto
+Electronic City,21,Cloudy,1,0,Zomato
+HSR Layout,11,Cloudy,1,0,Swiggy
+Jayanagar,23,Clear,1,0,Zomato
+Malleshwaram,20,Cloudy,0,1,Zomato
+Yelahanka,18,Rainy,0,1,Swiggy
+Whitefield,15,Clear,1,0,Zomato
+Yelahanka,23,Hot,1,0,Zepto
+Marathahalli,18,Clear,1,0,Swiggy
+HSR Layout,9,Hot,1,0,Zepto
+Electronic City,22,Clear,0,0,Zepto
+Yelahanka,8,Cloudy,0,0,Zepto
+Whitefield,23,Cloudy,1,0,Zepto
+Whitefield,11,Hot,1,1,Zepto
+Hebbal,14,Cloudy,1,1,Zepto
+HSR Layout,19,Cloudy,1,0,Zomato
+HSR Layout,15,Cloudy,1,1,Swiggy
+Marathahalli,14,Hot,0,1,Zomato
+HSR Layout,13,Cloudy,0,1,Zomato
+Jayanagar,8,Rainy,1,1,Swiggy
+HSR Layout,10,Clear,0,0,Zomato
+Hebbal,22,Cloudy,0,0,Zepto
+HSR Layout,17,Clear,0,0,Swiggy
+Jayanagar,18,Cloudy,1,1,Swiggy
+Hebbal,23,Hot,1,1,Zepto
+Whitefield,23,Cloudy,1,0,Zepto
+Marathahalli,16,Cloudy,1,0,Swiggy
+Yelahanka,18,Rainy,1,0,Swiggy
+Yelahanka,21,Cloudy,1,1,Zomato
+Koramangala,9,Rainy,0,1,Zomato
+Malleshwaram,22,Hot,1,0,Zepto
+Whitefield,14,Clear,1,1,Zomato
+Koramangala,16,Hot,0,1,Zomato
+Whitefield,8,Clear,0,1,Zepto
+Koramangala,22,Cloudy,1,1,Zomato
+Koramangala,21,Cloudy,1,0,Zepto
+Yelahanka,11,Clear,1,0,Zepto
+Yelahanka,16,Rainy,1,1,Swiggy
+Koramangala,19,Hot,1,1,Zomato
+Electronic City,21,Cloudy,0,1,Zomato
+Marathahalli,19,Cloudy,0,0,Zomato
+Jayanagar,22,Hot,0,1,Zepto
+Koramangala,15,Cloudy,0,1,Zomato
+Hebbal,12,Hot,0,1,Zomato
+Indiranagar,10,Hot,1,1,Zepto
+Koramangala,14,Rainy,1,0,Zomato
+Electronic City,9,Rainy,0,0,Zepto
+Jayanagar,8,Rainy,0,1,Zomato
+Hebbal,15,Rainy,1,1,Swiggy
+Jayanagar,16,Hot,0,0,Swiggy
+Marathahalli,16,Rainy,1,1,Swiggy
+Yelahanka,19,Clear,1,1,Zomato
+Hebbal,21,Clear,0,0,Zomato
+HSR Layout,21,Clear,0,0,Zomato
+Jayanagar,17,Hot,1,0,Swiggy
+Yelahanka,23,Cloudy,1,0,Zepto
+Marathahalli,12,Hot,0,0,Zomato
+HSR Layout,9,Rainy,1,0,Swiggy
+Yelahanka,22,Rainy,0,0,Zepto
+Malleshwaram,9,Rainy,0,0,Zomato
+Yelahanka,15,Rainy,1,1,Zomato
+Marathahalli,9,Cloudy,0,1,Zepto
+Koramangala,15,Clear,1,0,Zomato
+Whitefield,14,Clear,0,0,Zomato
+Indiranagar,10,Clear,0,1,Zomato
+Koramangala,13,Rainy,0,1,Zomato
+Malleshwaram,16,Rainy,0,0,Swiggy
+Yelahanka,15,Hot,1,0,Zepto
+Whitefield,11,Hot,0,0,Zepto
+Marathahalli,19,Clear,0,1,Zomato
+Koramangala,8,Hot,0,0,Zepto
+Marathahalli,8,Clear,0,1,Zomato
+Hebbal,9,Cloudy,0,1,Zepto
+Electronic City,8,Rainy,1,1,Swiggy
+Hebbal,22,Hot,1,1,Zepto
+Whitefield,22,Cloudy,0,1,Zepto
+Hebbal,9,Rainy,1,1,Swiggy
+Jayanagar,20,Clear,1,0,Zomato
+Whitefield,18,Rainy,1,0,Zepto
+HSR Layout,14,Clear,1,0,Zomato
+Marathahalli,19,Rainy,1,1,Swiggy
+HSR Layout,10,Cloudy,0,0,Zepto
+Hebbal,19,Clear,0,1,Zomato
+Jayanagar,12,Clear,1,0,Zomato
+Jayanagar,17,Rainy,0,1,Swiggy
+Marathahalli,14,Cloudy,0,1,Zomato
+Malleshwaram,8,Rainy,1,0,Swiggy
+Whitefield,23,Hot,0,0,Zepto
+Indiranagar,11,Hot,1,1,Zomato
+Whitefield,10,Cloudy,1,0,Zepto
+Jayanagar,19,Hot,1,0,Zomato
+Malleshwaram,10,Rainy,1,1,Zomato
+Malleshwaram,13,Cloudy,0,0,Zomato
+Malleshwaram,22,Cloudy,0,0,Zepto
+Hebbal,13,Hot,0,0,Zomato
+Yelahanka,21,Hot,1,0,Zepto
+Whitefield,22,Cloudy,1,1,Zepto
+Electronic City,16,Clear,1,1,Swiggy
+Malleshwaram,23,Cloudy,0,0,Zepto
+Hebbal,21,Hot,1,1,Zomato
+Koramangala,14,Cloudy,0,0,Zomato
+Yelahanka,14,Hot,1,1,Zomato
+Marathahalli,18,Rainy,0,1,Swiggy
+HSR Layout,14,Clear,1,1,Zomato
+Yelahanka,9,Clear,0,0,Zepto
+Malleshwaram,10,Rainy,0,0,Swiggy
+Hebbal,8,Hot,1,0,Zepto
+Electronic City,20,Cloudy,1,0,Zomato
+Whitefield,23,Clear,0,1,Zepto
+Electronic City,12,Clear,0,0,Zomato
+Electronic City,11,Cloudy,1,0,Swiggy
+Whitefield,12,Clear,0,0,Zomato
+Malleshwaram,20,Hot,0,1,Zomato
+HSR Layout,23,Cloudy,0,0,Zepto
+Indiranagar,11,Cloudy,0,0,Zomato
+Malleshwaram,17,Rainy,1,1,Swiggy
+Indiranagar,15,Clear,0,1,Zomato
+Jayanagar,19,Cloudy,0,1,Zomato
+HSR Layout,9,Hot,0,1,Zepto
+Hebbal,23,Rainy,0,0,Swiggy
+Marathahalli,14,Rainy,0,1,Zomato
+Hebbal,14,Clear,0,0,Zomato
+Whitefield,10,Hot,1,1,Zepto
+Jayanagar,16,Cloudy,0,0,Swiggy
+Whitefield,8,Hot,0,1,Zepto
+HSR Layout,16,Rainy,0,0,Swiggy
+Jayanagar,21,Rainy,0,0,Zomato
+Indiranagar,23,Clear,0,1,Zomato
+Yelahanka,13,Cloudy,1,0,Zomato
+Marathahalli,8,Rainy,0,0,Swiggy
+Yelahanka,22,Cloudy,0,0,Zepto
+Jayanagar,16,Cloudy,0,1,Zomato
+Yelahanka,21,Cloudy,0,0,Zomato
+Marathahalli,22,Cloudy,0,1,Zepto
+Koramangala,8,Hot,1,1,Zepto
+Hebbal,20,Hot,0,0,Zomato
+Yelahanka,12,Cloudy,1,0,Zomato
+Whitefield,12,Hot,0,0,Zepto
+Electronic City,14,Clear,1,1,Zomato
+Indiranagar,22,Cloudy,0,0,Zepto
+Malleshwaram,12,Cloudy,1,1,Zomato
+Hebbal,23,Cloudy,0,1,Zepto
+Indiranagar,23,Hot,1,0,Zepto
+Whitefield,22,Cloudy,1,0,Zepto
+Yelahanka,20,Cloudy,0,0,Zomato
+Malleshwaram,13,Cloudy,1,0,Zomato
+Electronic City,10,Cloudy,1,1,Zepto
+HSR Layout,14,Clear,1,0,Zomato
+HSR Layout,15,Rainy,0,0,Swiggy
+HSR Layout,18,Clear,1,1,Swiggy
+Marathahalli,13,Hot,0,0,Zomato
+Malleshwaram,20,Clear,1,1,Zomato
+Marathahalli,12,Hot,0,0,Zomato
+Whitefield,22,Hot,1,0,Zepto
+Jayanagar,19,Hot,1,1,Zomato
+Hebbal,12,Cloudy,0,0,Zomato
+Jayanagar,14,Rainy,1,1,Zomato
+Koramangala,19,Hot,1,1,Zomato
+Indiranagar,22,Hot,1,0,Zepto
+HSR Layout,19,Rainy,0,1,Zomato
+Marathahalli,11,Rainy,1,1,Swiggy
+Yelahanka,22,Hot,0,1,Zepto
+Whitefield,20,Clear,0,1,Zomato
+Electronic City,17,Cloudy,1,0,Swiggy
+Electronic City,17,Rainy,0,0,Swiggy
+Whitefield,12,Hot,1,0,Zomato
+HSR Layout,15,Hot,0,1,Zepto
+Hebbal,20,Cloudy,0,0,Zomato
+HSR Layout,12,Clear,1,0,Zomato
+Electronic City,17,Hot,1,0,Zepto
+Yelahanka,10,Cloudy,1,0,Zepto
+Whitefield,11,Cloudy,0,0,Zepto
+Jayanagar,10,Clear,0,1,Zomato
+Jayanagar,12,Cloudy,1,1,Zomato
+Koramangala,23,Clear,1,0,Zomato
+Koramangala,9,Hot,0,0,Zepto
+Indiranagar,14,Clear,0,0,Zomato
+Hebbal,13,Hot,1,1,Zomato
+Yelahanka,14,Rainy,0,0,Zomato
+Malleshwaram,10,Rainy,0,1,Swiggy
+Jayanagar,22,Hot,0,0,Zepto
+Indiranagar,12,Clear,1,0,Zomato
+Electronic City,21,Hot,0,0,Zepto
+Malleshwaram,21,Rainy,0,0,Swiggy
+Indiranagar,12,Hot,1,1,Zomato
+Koramangala,9,Rainy,0,1,Zomato
+Malleshwaram,13,Hot,0,1,Zomato
+Malleshwaram,15,Rainy,0,0,Swiggy
+Whitefield,18,Hot,1,0,Swiggy
+HSR Layout,10,Clear,0,0,Zepto
+Marathahalli,19,Hot,1,0,Zomato
+Indiranagar,15,Hot,0,0,Zepto
+Marathahalli,23,Hot,0,0,Zepto
+Electronic City,18,Hot,0,0,Zepto
+Malleshwaram,19,Cloudy,0,1,Zomato
+Electronic City,8,Cloudy,0,1,Zepto
+Hebbal,17,Rainy,0,0,Swiggy
+Indiranagar,21,Rainy,1,0,Zomato
+HSR Layout,10,Cloudy,0,0,Zepto
+Hebbal,18,Hot,0,0,Swiggy
+Koramangala,17,Hot,1,1,Swiggy
+Marathahalli,22,Clear,0,1,Zomato
+Electronic City,15,Clear,0,0,Zomato
+Electronic City,11,Rainy,1,0,Swiggy
+Whitefield,14,Clear,0,0,Zomato
+Koramangala,10,Cloudy,1,0,Zepto
+HSR Layout,11,Clear,1,0,Swiggy
+Yelahanka,17,Rainy,0,1,Swiggy
+Marathahalli,19,Clear,1,0,Zomato
+Electronic City,17,Rainy,0,0,Swiggy
+Marathahalli,9,Hot,1,1,Zepto
+Electronic City,8,Clear,0,0,Zepto
+HSR Layout,9,Cloudy,1,1,Swiggy
+Marathahalli,23,Rainy,0,1,Swiggy
+Electronic City,23,Rainy,1,0,Swiggy
+Electronic City,10,Cloudy,0,0,Zepto
+Indiranagar,20,Hot,0,1,Zomato
+Hebbal,14,Rainy,0,1,Zomato
+Hebbal,20,Hot,1,0,Zomato
+Whitefield,15,Hot,1,0,Zepto
+Electronic City,13,Cloudy,0,0,Zomato
+Koramangala,14,Cloudy,0,0,Zomato
+Indiranagar,23,Rainy,1,0,Swiggy
+Malleshwaram,20,Cloudy,0,1,Zomato
+Marathahalli,10,Cloudy,0,1,Swiggy
+Yelahanka,21,Rainy,0,1,Zomato
+Yelahanka,8,Cloudy,0,1,Zepto
+Hebbal,9,Clear,0,1,Zomato
+Whitefield,15,Clear,0,0,Zomato
+Koramangala,22,Rainy,1,1,Swiggy
+Marathahalli,17,Clear,0,1,Swiggy
+Indiranagar,10,Rainy,0,1,Zomato
+Koramangala,23,Hot,1,1,Zepto
+Indiranagar,23,Hot,1,0,Zepto
+HSR Layout,20,Cloudy,0,0,Zomato
+Jayanagar,19,Cloudy,1,0,Zomato
+Indiranagar,14,Clear,0,1,Zomato
+Malleshwaram,9,Rainy,1,0,Swiggy
+Koramangala,8,Hot,1,1,Zepto
+Electronic City,17,Clear,1,1,Swiggy
+Malleshwaram,17,Clear,0,1,Swiggy
+Electronic City,22,Clear,0,0,Zepto
+Electronic City,13,Clear,0,1,Zomato
+Yelahanka,11,Hot,0,1,Zepto
+Jayanagar,18,Hot,1,1,Swiggy
+Hebbal,10,Rainy,0,0,Swiggy
+HSR Layout,23,Rainy,1,1,Swiggy
+Koramangala,16,Rainy,1,1,Zomato
+Yelahanka,20,Hot,1,0,Zomato
+Marathahalli,22,Clear,1,1,Zomato
+Marathahalli,17,Cloudy,0,1,Swiggy
+Indiranagar,23,Rainy,0,1,Zomato
+Indiranagar,11,Hot,0,0,Zepto
+Indiranagar,19,Cloudy,1,0,Zomato
+Yelahanka,13,Hot,1,0,Zepto
+HSR Layout,16,Rainy,1,1,Swiggy
+Marathahalli,15,Cloudy,1,0,Swiggy
+Marathahalli,14,Rainy,0,0,Swiggy
+HSR Layout,19,Clear,1,1,Zomato
+Indiranagar,22,Hot,1,0,Zepto
+Koramangala,21,Clear,0,1,Zomato
+HSR Layout,16,Cloudy,1,1,Swiggy
+Yelahanka,17,Clear,0,0,Zomato
+Indiranagar,10,Cloudy,0,1,Zomato
+Hebbal,18,Hot,0,1,Swiggy
+Marathahalli,18,Hot,1,1,Swiggy
+Indiranagar,9,Rainy,0,0,Swiggy
+Electronic City,21,Rainy,0,1,Zomato
+Electronic City,10,Cloudy,0,0,Zepto
+Hebbal,10,Rainy,1,0,Swiggy
+Yelahanka,10,Cloudy,1,1,Zepto
+Indiranagar,17,Rainy,1,1,Swiggy
+Yelahanka,14,Rainy,1,0,Swiggy
+Electronic City,22,Rainy,1,0,Swiggy
+Whitefield,11,Cloudy,1,1,Zomato
+Koramangala,8,Rainy,0,1,Zomato
+Malleshwaram,8,Hot,1,1,Zepto
+Hebbal,22,Rainy,0,1,Swiggy
+Malleshwaram,18,Rainy,0,0,Swiggy
+Hebbal,22,Hot,1,0,Zepto
+Hebbal,20,Rainy,1,0,Swiggy
+Malleshwaram,16,Clear,1,1,Swiggy
+HSR Layout,11,Rainy,1,0,Swiggy
+Malleshwaram,19,Rainy,1,0,Swiggy
+Marathahalli,10,Rainy,0,0,Swiggy
+Whitefield,11,Hot,1,1,Zepto
+Marathahalli,10,Hot,0,1,Zepto
+Electronic City,14,Rainy,0,0,Zomato
+Malleshwaram,16,Hot,1,0,Swiggy
+Koramangala,11,Hot,1,1,Zomato
+Whitefield,15,Rainy,1,0,Swiggy
+Whitefield,10,Clear,0,0,Zepto
+Malleshwaram,11,Hot,1,0,Swiggy
+HSR Layout,13,Clear,0,0,Zomato
+Marathahalli,13,Hot,0,1,Zomato
+Malleshwaram,13,Rainy,1,1,Swiggy
+Hebbal,23,Rainy,1,0,Swiggy
+Marathahalli,16,Hot,0,0,Swiggy
+Malleshwaram,8,Cloudy,0,0,Zepto
+Electronic City,15,Cloudy,1,1,Zomato
+Yelahanka,9,Cloudy,0,0,Zepto
+Malleshwaram,20,Hot,1,1,Zomato
+Indiranagar,13,Clear,0,1,Zomato
+Whitefield,18,Hot,0,0,Zepto
+Hebbal,12,Clear,0,0,Zomato
+Hebbal,23,Hot,0,0,Zepto
+Marathahalli,18,Clear,1,0,Swiggy
+Yelahanka,12,Hot,1,1,Zomato
+Indiranagar,23,Hot,0,0,Zepto
+HSR Layout,23,Cloudy,0,0,Zepto
+Electronic City,19,Rainy,1,1,Zomato
+Jayanagar,14,Cloudy,1,1,Zomato
+Jayanagar,17,Rainy,1,1,Swiggy
+Koramangala,22,Cloudy,1,1,Zomato
+Indiranagar,14,Rainy,1,0,Zomato
+HSR Layout,10,Clear,1,0,Swiggy
+Malleshwaram,21,Cloudy,1,1,Zomato
+Hebbal,10,Rainy,1,0,Swiggy
+Koramangala,11,Hot,1,0,Zepto
+Malleshwaram,14,Rainy,0,0,Swiggy
+Electronic City,15,Clear,0,0,Zomato
+Malleshwaram,16,Hot,1,0,Swiggy
+Indiranagar,12,Rainy,0,0,Zomato
+Yelahanka,22,Clear,0,1,Zepto
+Whitefield,8,Clear,0,1,Zepto
+Hebbal,10,Clear,0,1,Zomato
+Whitefield,21,Clear,0,1,Zomato
+Koramangala,16,Rainy,0,1,Swiggy
+Hebbal,10,Clear,1,0,Swiggy
+Yelahanka,23,Rainy,0,1,Zepto
+Yelahanka,19,Clear,1,0,Zomato
+Malleshwaram,14,Clear,1,0,Zomato
+Hebbal,16,Cloudy,1,1,Swiggy
+HSR Layout,23,Hot,1,0,Zepto
+Whitefield,18,Rainy,1,1,Swiggy
+Indiranagar,15,Hot,0,1,Zomato
+Indiranagar,23,Rainy,0,0,Swiggy
+Hebbal,9,Hot,0,0,Zepto
+Hebbal,22,Clear,0,1,Zomato
+Malleshwaram,17,Hot,0,1,Swiggy
+Whitefield,20,Clear,0,0,Zomato
+Hebbal,22,Hot,1,0,Zepto
+Yelahanka,19,Rainy,1,1,Swiggy
+Electronic City,13,Hot,1,1,Zomato
+Koramangala,14,Hot,1,0,Zomato
+Jayanagar,12,Cloudy,1,0,Zomato
+Malleshwaram,12,Clear,1,1,Zomato
+Malleshwaram,11,Hot,0,0,Zepto
+Koramangala,15,Cloudy,0,1,Zomato
+Yelahanka,16,Clear,0,0,Swiggy
+Electronic City,12,Clear,0,1,Zomato
+Koramangala,13,Hot,1,0,Zomato
+Indiranagar,10,Hot,1,1,Zepto
+Marathahalli,10,Rainy,0,0,Swiggy
