@@ -1,4 +1,4 @@
-# Delivery App  Predictor
+# Delivery App Demand Predictor
 
 A simple beginner-level machine learning project that helps delivery partners decide **which delivery app they should work with** based on the current situation.
 
